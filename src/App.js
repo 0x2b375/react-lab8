@@ -88,7 +88,7 @@ function App() {
             <option value="" disabled selected>
               Select your Ans
             </option>
-            <optgroup label="Beginers">
+            <optgroup label="Beginners">
               <option value="1">HTML</option>
               <option value="2">CSS</option>
               <option value="3">JavaScript</option>
