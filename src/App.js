@@ -93,7 +93,7 @@ function App() {
               <option value="2">CSS</option>
               <option value="3">JavaScript</option>
             </optgroup>
-            <optgroup label="Advance">
+            <optgroup label="Advanced">
               <option value="1">React</option>
               <option value="2">Node</option>
               <option value="3">Express</option>
